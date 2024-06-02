@@ -1,0 +1,1 @@
+This repository contains code for [go_wiki]() tutorial present on official go documenation page.

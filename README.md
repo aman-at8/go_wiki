@@ -1,1 +1,1 @@
-This repository contains code for [go_wiki]() tutorial present on official go documenation page.
+This repository contains code for [go_wiki](https://go.dev/doc/articles/wiki/) tutorial present on official go documenation page.
